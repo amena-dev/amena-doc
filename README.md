@@ -2,6 +2,8 @@
 ![screenshot](https://user-images.githubusercontent.com/26696733/110247351-b5295d00-7f20-11eb-8b8e-288826eefcb7.png)
 # https://amena.uehr.co
 
+# Data Flow
+![DataFlow](https://user-images.githubusercontent.com/26696733/110245358-8c509a00-7f17-11eb-9b1d-6cadb12e6b4c.png)
 
 # Repositories
 - [amena-web-backend](https://github.com/amena-dev/amena-web-backend)
