@@ -8,6 +8,7 @@
 - [amena-web-frontend](https://github.com/amena-dev/amena-web-frontend)
 - [amena-3dp-engine](https://github.com/amena-dev/amena-3dp-engine)
 - [amena-infra](https://github.com/amena-dev/amena-infra) (private)
+- [keda](https://github.com/amena-dev/keda)
 
 # Document Links
 - [System Architecture](https://github.com/amena-dev/amena-doc/blob/master/system-architecture.md)
