@@ -10,7 +10,7 @@
 - [amena-infra](https://github.com/amena-dev/amena-infra) (private)
 
 # Document Links
-- [System Architecture]()
-- [Data Flow]()
+- [System Architecture](https://github.com/amena-dev/amena-doc/blob/master/system-architecture.md)
+- [Data Flow](https://github.com/amena-dev/amena-doc/blob/master/data-flow.md)
 - [Web Backend API](https://github.com/amena-dev/amena-web-backend/wiki)
-- [Horizontal Pod Scale]()
+- [Horizontal Pod Scale](https://github.com/amena-dev/amena-doc/blob/master/horizontal-pod-scale.md)
